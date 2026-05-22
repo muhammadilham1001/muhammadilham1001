@@ -1,6 +1,4 @@
-- 👋 Hi me ilhmvfx
-- 👀 I’m a student smkn 1 lumajang
-- 🌱 I am a photographer and videographer
+-  Hi me ilham
 - 💞️ And i am junior programmer
 - 📫 @ilhmvfx
 
